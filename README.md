@@ -1,6 +1,6 @@
 # HackerEarth API
 
-<p align="center"><img width="100" src="https://raw.githubusercontent.com/piedcipher/hackerearth_api/master/img/logo.png?token=ADGVHWJZFKVAWU6SDHHH7G25X3FQG" alt="logo"></p>
+<p align="center"><img width="100" src="https://raw.githubusercontent.com/piedcipher/hackerearth-api/master/img/logo.png?token=ADGVHWJZFKVAWU6SDHHH7G25X3FQG" alt="logo"></p>
 
 Simple and easy-to-use Dart wrapper for [HackerEarth API](https://www.hackerearth.com/docs/wiki/developers/v3/) which provides endpoints for compiling and running code in several languages.
 
