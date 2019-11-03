@@ -106,7 +106,7 @@ print(list(map(lambda x: str(x) + ' is a number', range(5))))''',
     print(hackerEarthApiWrapper.response); // same as above response variable
 
     /*
-        1) Successful execution response log without emojis:
+        1) Successful execution response log with emojis:
             💾 Memory Limit: 262144
             💾 Memory Used: 64
             ⏲ Time Limit: 5
@@ -120,7 +120,7 @@ print(list(map(lambda x: str(x) + ' is a number', range(5))))''',
             [('1', '2', '3'), ('1', '3', '2'), ('2', '1', '3'), ('2', '3', '1'), ('3', '1', '2'), ('3', '2', '1')]
             ['0 is a number', '1 is a number', '2 is a number', '3 is a number', '4 is a number']
 
-        2) Successful execution response log with emojis:
+        2) Successful execution response log without emojis:
             Memory Limit: 262144
             Memory Used: 64
             Time Limit: 5
