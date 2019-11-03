@@ -99,6 +99,6 @@ class HackerEarthApiWrapper {
             'Compile Status: \n---------------\n${_response['compile_status']}';
       }
     }
-    return '';
+    return response.toString();
   }
 }
