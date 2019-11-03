@@ -1,5 +1,5 @@
 name: hackerearth_api
-description: Dart wrapper for HackerEarth API.
+description: Simple and easy-to-use Dart wrapper for HackerEarth API which provides endpoints for compiling and running code in several languages.
 version: 1.0.0
 homepage: https://github.com/piedcipher/hackerearth_api
 author: Tirth Patel <pateltirth454@gmail.com>
