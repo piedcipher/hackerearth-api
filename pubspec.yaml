@@ -8,8 +8,8 @@ environment:
   sdk: '>=2.5.0 <3.0.0'
 
 dependencies:
-  http:
-  demoji:
+  http: ^0.12.0+2
+  demoji: ^1.0.1
 
 dev_dependencies:
-  test:
+  test: ^1.9.3
